@@ -1,2 +1,4 @@
 Next for SIFT
   implement crosscheck/ratio test, homography to remove false positive keypoints so that this method will actually work
+  
+ data_gen_try_3 seems to work
