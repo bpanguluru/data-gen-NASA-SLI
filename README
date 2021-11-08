@@ -1,4 +1,4 @@
-Next for SIFT
+Next for SIFT (knn approach working with 97% accuracy)
   SIFT feature extraction + bag of words and SVM? 
   might want to use ORB for speed/efficiency instead 
   
