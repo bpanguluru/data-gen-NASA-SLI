@@ -1,5 +1,11 @@
 Next for SIFT
-  implement crosscheck/ratio test, homography to remove false positive keypoints so that this method will actually work
+  SIFT feature extraction + bag of words and SVM? 
   might want to use ORB for speed/efficiency instead 
   
- data_gen_try_3 seems to work
+ data_gen_try_3 works as is, try adding more noise and see if knnMatch still works
+ 
+ CNN approach, make a full set of data and see if it trains well
+ 
+ SIFT-CNN
+ 
+ Try CyCNN or Spatial Transformer Network
